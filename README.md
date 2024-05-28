@@ -2,8 +2,8 @@
 
 ###### Sumário:
 - O que é a metodologia AS IS/TO BE?
-    **- Macro processos**
-    **- BPMN**
+    ***- Macro processos***
+    ***- BPMN***
 - Ferramentas 
 - Exemplo de Utilização
 - Referências
